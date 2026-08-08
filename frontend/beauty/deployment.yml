@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: beauty
-        image: 011215723218.dkr.ecr.us-east-1.amazonaws.com/shopping-site-beauty:be4f8fce9e5d5e0c1408da080aa5c79209382a0b
+        image: 011215723218.dkr.ecr.us-east-1.amazonaws.com/shopping-site-beauty:c287ff00b193b34fb9551d78994e1fdeac0ac2e1
         ports:
         - containerPort: 80
 ---
